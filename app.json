@@ -1,0 +1,16 @@
+{
+    "id": "6e51a97e-aece-4a21-9ff8-0f7f790ec022",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Frank Dase",
+        "homepage": "http://www.ill-fish.com",
+        "support": "frankdase@gmail.com"
+    },
+    "name": "Broadcast",
+    "nameSlug": "broadcast",
+    "classFile": "BroadcastApp.ts",
+    "description": "Send a message to multiple channels",
+    "implements": []
+}

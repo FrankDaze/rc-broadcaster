@@ -1,0 +1,6 @@
+{
+    "broadcastParamExample": "",
+    "broadcastDescription": "Sende eine Nachricht an mehrere Kanäle gleihzeitig.",
+    "broadcastListOfChannel": "Broadcast Kanäle",
+    "broadcastListOfChannelDescription": "Trage hier bitte deine Broadcastkanäle kommasepariert ein"
+}

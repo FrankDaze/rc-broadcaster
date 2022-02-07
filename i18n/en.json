@@ -1,0 +1,6 @@
+{
+    "broadcastParamExample": "",
+    "broadcastDescription": "Sends a message to multiple channels at the same time.",
+    "broadcastListOfChannel": "Broadcast Channels",
+    "broadcastListOfChannelDescription": "Enter here the list of your broadcast channels. Separated by comma."
+}
