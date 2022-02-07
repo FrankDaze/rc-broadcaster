@@ -1,7 +1,7 @@
 # Rocket.Chat Broadcaster
 Send a message to multiple Rocke.Chat channels
 
-Use */broadcast* to open the broadcast message modal. 
+Use `/broadcast` to open the broadcast message modal. 
 
 ## Purpose
 I lead a team of Devops and IT-Support and often I have to send info messages to several channels to make sure as much as possible employees of our company will see it. For this reason I devided to write a broadcaster app. Currently the functionality is a little bit limited by the option of Rocket.Chat. 
