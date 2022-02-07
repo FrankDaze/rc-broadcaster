@@ -1,4 +1,4 @@
-# Broadcast
+# Broadcaster
 Send a message to multiple channels
 
 ## Getting Started
