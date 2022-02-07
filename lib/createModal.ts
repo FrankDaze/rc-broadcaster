@@ -38,7 +38,7 @@ export async function createModal({ persistence, data, modify, http, channels }:
     });
     block.addInputBlock({
         blockId: 'broadcast_message',
-        element: block.newPlainTextInputElement({ initialValue: "", actionId: 'message' }),
+        element: block.newPlainTextInputElement({ initialValue: "", multiline: true, actionId: 'message' }),
         label: block.newPlainTextObject('Broadcast Message'),
     });
    
