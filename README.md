@@ -4,6 +4,10 @@ Send a message to multiple Rocke.Chat channels
 ## Purpose
 I lead a team of Devops and IT-Support and often I have to send info messages to several channels to make sure as much as possible employees of our company will see it. For this reason I devided to write a broadcaster app. Currently the functionality is a little bit limited by the option of Rocket.Chat. 
 
+## Known bugs
+- You can't press enter or SHIFT + enter in the message input field if you use Rocket.Chat < V4.4.0 . This is a bug in Rocket.Chat and has been fixed in V4.4.0
+
+
 ## Getting Started
 
 - `rc-apps package`: this command will generate a packaged app file (zip) which can be installed **if** it compiles with TypeScript
