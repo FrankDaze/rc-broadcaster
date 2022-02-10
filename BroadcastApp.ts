@@ -71,7 +71,7 @@ export class BroadcastApp extends App  {
         const headline = state.broadcast_headline.headline;
         const text = state.broadcast_message.message;
 
-        const message = `### ${headline}\n<br> ${text}`;
+        const message = `### ${headline}\n ${text}`;
     
         channelsArray.map(async (roomName) => {
 
