@@ -13,7 +13,7 @@ I lead a team of Devops and IT-Support and often I have to send info messages to
 ## Getting Started
 
 - `rc-apps package`: this command will generate a packaged app file (zip) which can be installed **if** it compiles with TypeScript
-- `rc-apps deploy`: this will do what `package` does but will then ask you for your server url, username, and password to deploy it for you
+- `rc-apps deploy`: that does the same as `package` but then asks you for your server url, username, and password to deploy it for you
 
 ## Documentation
 Here are some links to examples and documentation:
